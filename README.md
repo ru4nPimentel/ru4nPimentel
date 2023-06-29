@@ -8,10 +8,10 @@
 
 <div style="display: block; margin-bottom: 5px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ru4nPimentel&show_icons=true&theme=dark" />
+    <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ru4nPimentel&show_icons=true&theme=midnight-purple" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru4nPimentel&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru4nPimentel&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
   </a>
 </div>
 <br/>
