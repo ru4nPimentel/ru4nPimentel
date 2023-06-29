@@ -7,10 +7,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ru4n_erro.exe/)
 
 <div style="display: block; margin-bottom: 5px">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Ru4nPimentel?tab=repositories">
     <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ru4nPimentel&show_icons=true&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Ru4nPimentel?tab=repositories">
     <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru4nPimentel&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
   </a>
 </div>
