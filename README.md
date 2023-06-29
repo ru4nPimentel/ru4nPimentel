@@ -1,4 +1,4 @@
-## Hello my name is Ruan Pimentel ✌️, I've been working with Front since 2016
+## Hello my name is Ruan Pimentel ✌️, I've been working with Front-end since 2016
 ### Graduated in Computer Science 💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-de-souza-pimentel-4aa884181/)
