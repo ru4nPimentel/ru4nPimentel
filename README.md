@@ -1,4 +1,5 @@
-## Olá eu sou o Ruan de Souza ✌️ Desenvolvedor Front-end desde 2016
+## Hello my name is Ruan Pimentel ✌️, I've been working with Front since 2016
+### Graduated in Computer Science 💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-de-souza-pimentel-4aa884181/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanpimentel.job@gmail.com)
@@ -7,10 +8,10 @@
 
 <div style="display: block; margin-bottom: 5px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ru4nPimentel&show_icons=true&theme=dark" />
+    <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ru4nPimentel&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru4nPimentel&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru4nPimentel&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
 <br/>
