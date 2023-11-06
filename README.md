@@ -1,10 +1,10 @@
-<div id="header" align="center">
+<div align="center" style="color: #fff">
   
 ## Hello my name is Ruan Pimentel ✌️, I've been working with Front-end since 2016
 ### Graduated in Computer Science 💻
 
 </div>
-<div id="header" align="center">
+<div  align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Front-End%20Developer&fontSize=80"/>
 </div>
 
