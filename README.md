@@ -24,10 +24,6 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-![Snake animation](https://github.com/ru4nPimentel/ru4nPimentel/blob/output/github-contribution-grid-snake.svg)
-
-##
-
 <div style="display: block; margin-bottom: 3px">
     <img style="border-radius: 3px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img style="border-radius: 3px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
