@@ -1,17 +1,24 @@
 <div id="header" align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Front-End%20Developer&fontSize=80)
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVhNG55a3ZhcWFkNDhma2wydnlhZWJnZjFicTQwbnVtdmU5eWNnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2z956IUc3J0noEOXUL/giphy.gif" width="200"/>
-</div>
-
+  
 ## Hello my name is Ruan Pimentel ✌️, I've been working with Front-end since 2016
 ### Graduated in Computer Science 💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-de-souza-pimentel-4aa884181/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanpimentel.job@gmail.com)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ru4npimentel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404_r04n/)
+</div>
+<div id="header" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Front-End%20Developer&fontSize=80"/>
+</div>
 
-<div style="display: block; margin-bottom: 5px">
+<br>
+<span  align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-de-souza-pimentel-4aa884181/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanpimentel.job@gmail.com)
+  [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ru4npimentel)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404_r04n/)
+
+</span>
+
+<div style="display: block; margin-bottom: 5px" align="center">
   <a href="https://github.com/Ru4nPimentel?tab=repositories">
     <img height="185em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ru4nPimentel&show_icons=true&theme=midnight-purple" />
   </a>
@@ -20,7 +27,7 @@
   </a>
 </div>
 <br/>
-<div>
+<div align="center">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -29,11 +36,13 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-![Snake animation](https://github.com/ru4nPimentel/ru4nPimentel/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="400"/> </div>
+
+
 
 ##
 
-<div style="display: block; margin-bottom: 3px">
+<div style="display: block; margin-bottom: 3px" align="center">
     <img style="border-radius: 3px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img style="border-radius: 3px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img style="border-radius: 3px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -51,7 +60,7 @@
     
 </div>
 
-<div>
+<div align="center">
     <img style="border-radius: 3px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img style="border-radius: 3px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
     <img style="border-radius: 3px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
