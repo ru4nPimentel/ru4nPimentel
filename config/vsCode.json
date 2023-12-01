@@ -1,0 +1,84 @@
+{   
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "workbench.iconTheme": "symbols",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 26,
+    "editor.tabSize": 2,
+    "editor.tabCompletion": "on",
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    //"editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "editor.formatOnSave": true,
+        "source.fixAll.eslint": true,
+        "source.addMissingImports": true
+    },
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "*.js": "javascript",
+        ".prettierrc": "json",
+        "*.tsx": "typescriptreact",
+        "*.ts": "typescript",
+        ".env.*": "dotenv",
+        ".css": "css",
+    },
+    // Eslint
+    "eslint.validate": [
+      "javascript",
+      "typescriptreact",
+      "javascriptreact",
+      "typescript"
+    ],
+
+     // Languages
+    "[javascript]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[typescript]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[javascriptreact]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+
+    "[typescriptreact]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+
+    // Tailwind
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "javascript"
+    },
+
+    "symbols.hidesExplorerArrows": false,
+
+// =================== CONFIG: prisma ===================
+  "[prisma]" : {
+    "editor.formatOnSave" : true,
+    "editor.defaultFormatter": "Prisma.prisma"
+},
+"workbench.colorTheme": "Omni",
+"workbench.productIconTheme": "fluent-icons"
+}
